@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e414233e.chunk.css",
+    "main.js": "./static/js/main.be71bbba.chunk.js",
+    "main.js.map": "./static/js/main.be71bbba.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ccc09231.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ccc09231.js.map",
+    "static/css/2.383c0125.chunk.css": "./static/css/2.383c0125.chunk.css",
+    "static/js/2.5b8f8032.chunk.js": "./static/js/2.5b8f8032.chunk.js",
+    "static/js/2.5b8f8032.chunk.js.map": "./static/js/2.5b8f8032.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.383c0125.chunk.css.map": "./static/css/2.383c0125.chunk.css.map",
+    "static/css/main.e414233e.chunk.css.map": "./static/css/main.e414233e.chunk.css.map",
+    "static/js/2.5b8f8032.chunk.js.LICENSE.txt": "./static/js/2.5b8f8032.chunk.js.LICENSE.txt",
+    "static/media/HorizontalScrollEcard.css": "./static/media/1.556fe0ba.jpg",
+    "static/media/musica.f77e1a8a.mp3": "./static/media/musica.f77e1a8a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc09231.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.5b8f8032.chunk.js",
+    "static/css/main.e414233e.chunk.css",
+    "static/js/main.be71bbba.chunk.js"
+  ]
+}
